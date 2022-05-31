@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import React from "react";
 import { FcGoogle } from "react-icons/fc";
 import { useRouter } from "next/router";
