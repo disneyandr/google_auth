@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import React, { useEffect, useState } from "react";
 import { userAccessToken, fetchUser } from "../utils/fetchUserDetails";
 import { useRouter } from "next/router";
