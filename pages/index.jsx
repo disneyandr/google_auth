@@ -24,7 +24,7 @@ const index = () => {
       
     }
     const result = fetchData();
-  }, []);
+  }, []);// eslint-disable-line react-hooks/exhaustive-deps
   
   const signOut = () => {
     localStorage.clear()
